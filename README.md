@@ -1,5 +1,6 @@
 ### Hi there Welcome to visit my profile 👋
-
+This is my first github repository.
+Have a good day to everybody who read this sentence!
 <!--
 **alsrua15050/alsrua15050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
